@@ -1,0 +1,18 @@
+.tab {
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(215, 215, 255);
+    background-color: rgb(229, 229, 253);
+    padding: 0;
+    margin: 0;
+    border-spacing: 0;
+}
+.cell {
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(215, 215, 255);
+    background-color: rgb(229, 229, 253);
+    padding: 5px;
+    margin: 0;
+    border-spacing: 0;
+}
